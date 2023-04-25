@@ -1,0 +1,22 @@
+
+.col-sm{
+    border: 0.25rem solid rgb(21, 55, 93);
+}
+
+
+.col-md{
+    border: 0.25rem solid rgb(104, 193, 40);
+}
+
+
+
+
+.col-lg{
+    border: 0.25rem solid rgb(218, 47, 47);
+}
+
+
+
+.col-xl{
+    border: 0.25rem solid rgb(0, 0, 0);
+}
